@@ -20,3 +20,4 @@ class ContentController extends Controller
         return $twig->render('HelloWorld::TEMPLATE');
     }
 }
+?>
